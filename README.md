@@ -1,7 +1,7 @@
 # Práctica No. 2 — Tuberías (Pipe)
 **Sistemas Operativos 2** · Universidad de San Carlos de Guatemala, CUNOC
 
-Instrucciones de compilación y ejecución de los 3 problemas, tanto en **Linux nativo / WSL** como en **Windows con MSYS2**.
+Instrucciones de compilación y ejecución de los 3 problemas en **Linux nativo o WSL*
 
 ---
 
